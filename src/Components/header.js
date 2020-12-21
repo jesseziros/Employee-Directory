@@ -8,5 +8,5 @@ function Header() {
     </div>
   );
 }
-hey
+
 export default Header;
