@@ -1,8 +1,8 @@
 {
-  "name": "employee-directory-react",
+  "name": "user-directory",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jesseziros.github.io/employee-directory-react",
+  "homepage": "https://jesseziros.github.io/user-directory",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
